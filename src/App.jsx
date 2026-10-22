@@ -2,7 +2,7 @@ import {useEffect,useRef,useState} from 'react';
 
 const CONFIG={
  version:'0.1.0',size:'120 MB',requirements:'Windows 10/11 (64-bit)',
- downloadUrl:'https://github.com/Surajbnp/lekhpal-releases/releases/download/Test-Release/Lekhpal.Setup.0.1.0.exe',
+ downloadUrl:'https://github.com/Surajbnp/lekhpal-releases/releases/download/v0.2/Lekhpal-Setup-v0.2.exe',
  demoUrl:'#screenshots',supportEmail:'support@example.com'
 };
 const NAV=['Home','Features','Screenshots','Download','Pricing','FAQ'];
